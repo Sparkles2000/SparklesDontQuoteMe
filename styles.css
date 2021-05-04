@@ -1,0 +1,47 @@
+html {
+    background-repeat: repeat-y;
+    background: url("https://source.unsplash.com/user/erondu") no-repeat;
+    background-size: cover;
+}
+body{
+    padding: 3%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(20, 228, 65);
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(226, 43, 144);
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(143, 10, 54);
+    font-style: oblique;
+    font-family: cursive;
+    text-align: center;
+}
+div {
+    border-width: 3%;
+    border-inline-start-style: groove;
+    border: blueviolet;
+    border-radius: 3%;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+    font-style: oblique;
+    justify-content: center;
+    padding: 3%;
+    color:blueviolet
+    
+}
+p{
+    font-size: 50%;
+}
